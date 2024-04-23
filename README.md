@@ -9,6 +9,6 @@ Our activity consisted of creating models with the goal of predicting the succes
 
 Feature engineering proved essential in obtaining usable starting data for model creation. The code present in the repositories contains all the comments on the steps followed to obtain the final classification. 
 
-An accompanying presentation has been created to better describe the activities carried out (https://view.genial.ly/66279a04f06dda00142554be/learning-experience-didactic-unit-code-training-unit)
+An accompanying presentation has been created to better describe the activities carried out (https://view.genial.ly/66279a04f06dda00142554be/learning-experience-didactic-unit-code-training-unit).
 
 Enjoy!!!!
