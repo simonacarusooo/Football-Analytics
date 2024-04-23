@@ -1,0 +1,459 @@
+"team_id","team","team_name_short","team_name_symbol","competition_id","competition"
+1,Manchester United,Man Utd,MUN,8,Premier League
+2,Leeds United,Leeds,LEE,10,Championship
+3,Arsenal,Arsenal,ARS,8,Premier League
+4,Newcastle United,Newcastle,NEW,8,Premier League
+5,Blackburn Rovers,Blackburn,BLB,10,Championship
+6,Tottenham Hotspur,Spurs,TOT,8,Premier League
+7,Aston Villa,A Villa,AVL,8,Premier League
+8,Chelsea,Chelsea,CHE,8,Premier League
+9,Coventry City,Coventry,COV,10,Championship
+11,Everton,Everton,EVE,8,Premier League
+13,Leicester City,Leicester,LEI,10,Championship
+14,Liverpool,Liverpool,LIV,8,Premier League
+17,Nottingham Forest,Nott'm Forest,NFO,8,Premier League
+19,Sheffield Wednesday,Sheffield Wed,SHW,10,Championship
+20,Southampton,Southampton,SOU,10,Championship
+21,West Ham United,West Ham,WHU,8,Premier League
+25,Middlesbrough,Middlesbrough,MID,10,Championship
+31,Crystal Palace,C Palace,CRY,8,Premier League
+35,West Bromwich Albion,West Brom,WBA,10,Championship
+36,Brighton and Hove Albion,Brighton,BHA,8,Premier League
+38,Huddersfield Town,Huddersfield,HUD,10,Championship
+39,Wolverhampton Wanderers,Wolves,WOL,8,Premier League
+40,Ipswich Town,Ipswich,IPS,10,Championship
+41,Birmingham City,Birmingham,BIR,10,Championship
+43,Manchester City,Man City,MCI,8,Premier League
+45,Norwich City,Norwich,NOR,10,Championship
+49,Sheffield United,Sheffield Utd,SHU,8,Premier League
+52,Queens Park Rangers,QPR,QPR,10,Championship
+54,Fulham,Fulham,FUL,8,Premier League
+56,Sunderland,Sunderland,SUN,10,Championship
+57,Watford,Watford,WAT,10,Championship
+72,Rotherham United,Rotherham,RTH,10,Championship
+76,Plymouth Argyle,Plymouth,PLY,10,Championship
+80,Swansea City,Swansea,SWA,10,Championship
+88,Hull City,Hull,HUL,10,Championship
+90,Burnley,Burnley,BRN,8,Premier League
+91,Bournemouth,Bournemouth,BOU,8,Premier League
+94,Brentford,Brentford,BRE,8,Premier League
+97,Cardiff City,Cardiff,CAR,10,Championship
+102,Luton Town,Luton,LUT,8,Premier League
+103,Millwall,Millwall,MIL,10,Championship
+107,Preston North End,PNE,PNE,10,Championship
+110,Stoke City,Stoke,STK,10,Championship
+113,Bristol City,Bristol C,BCY,10,Championship
+120,Milan,Milan,ACM,21,Serie A
+121,Roma,A.S. Roma,ROM,21,Serie A
+122,Bari,FC Bari 1908,BAI,105,Serie B
+123,Bologna,Bologna,BOL,21,Serie A
+124,Cagliari,Cagliari,CAG,21,Serie A
+125,Fiorentina,Fiorentina,FIO,21,Serie A
+126,Verona,Hellas Verona,VER,21,Serie A
+127,Internazionale,Inter,INT,21,Serie A
+128,Juventus,Juventus,JUV,21,Serie A
+129,Lazio,SS Lazio,LAZ,21,Serie A
+130,Lecce,US Lecce,LEC,21,Serie A
+131,Parma,Parma Calcio 1913,PMA,105,Serie B
+135,Torino,Torino,TNO,21,Serie A
+136,Udinese,Udinese,UDI,21,Serie A
+137,Venezia,Venezia FC,VEN,105,Serie B
+138,Auxerre,Auxerre,AUX,104,Ligue 2
+139,Bastia,Bastia,BAS,104,Ligue 2
+140,Bordeaux,Bordeaux,BOR,104,Ligue 2
+141,Le Havre,Le Havre,LHV,24,Ligue 1
+142,Lens,Lens,LEN,24,Ligue 1
+143,Lyon,Lyon,LYN,24,Ligue 1
+144,Marseille,Marseille,MAR,24,Ligue 1
+145,Metz,Metz,MET,24,Ligue 1
+146,Monaco,Monaco,MCO,24,Ligue 1
+147,Montpellier,Montpellier,MTP,24,Ligue 1
+149,Paris Saint-Germain,Paris SG,PSG,24,Ligue 1
+150,Rennes,Rennes,REN,24,Ligue 1
+152,St Etienne,Saint-Étienne,STE,104,Ligue 2
+153,Strasbourg,Strasbourg,SBG,24,Ligue 1
+154,Troyes,Troyes,TRO,104,Ligue 2
+156,FC Bayern München,FC Bayern,FCB,22,Bundesliga
+157,Borussia Dortmund,Borussia Dortmund,BVB,22,Bundesliga
+159,Eintracht Frankfurt,Eintracht Frankfurt,SGE,22,Bundesliga
+160,SC Freiburg,Freiburg,SCF,22,Bundesliga
+161,Hamburger SV,Hamburger SV,HSV,87,"2.Bundesliga"
+162,Hertha BSC,Hertha BSC,BSC,87,"2.Bundesliga"
+163,"1. FC Kaiserslautern","1. FC K'lautern",FCK,87,"2.Bundesliga"
+164,Bayer 04 Leverkusen,Bayer 04,B04,22,Bundesliga
+166,FC Hansa Rostock,Hansa Rostock,HRO,87,"2.Bundesliga"
+167,FC Schalke 04,Schalke 04,S04,87,"2.Bundesliga"
+169,VfB Stuttgart,VfB Stuttgart,VFB,22,Bundesliga
+171,SV Werder Bremen,SV Werder,SVW,22,Bundesliga
+172,VfL Wolfsburg,VfL Wolfsburg,WOB,22,Bundesliga
+173,Alavés,Deportivo Alavés,ALV,23,La Liga
+174,Athletic Club,Athletic Club,ATH,23,La Liga
+175,Atlético de Madrid,Atlético de Madrid,ATM,23,La Liga
+176,Celta de Vigo,RC Celta,CEL,23,La Liga
+177,Espanyol,RCD Espanyol de Barcelona,ESP,102,Segunda division
+178,Barcelona,FC Barcelona,BAR,23,La Liga
+179,Sevilla,Sevilla FC,SFC,23,La Liga
+181,Mallorca,RCD Mallorca,MLL,23,La Liga
+184,Rayo Vallecano,Rayo Vallecano,RVM,23,La Liga
+185,Real Betis,Real Betis,RBB,23,La Liga
+186,Real Madrid,Real Madrid,RMA,23,La Liga
+187,Real Oviedo,R. Oviedo,ROV,102,Segunda division
+188,Real Sociedad,Real Sociedad,RSO,23,La Liga
+189,Racing de Santander,R. Racing Club,RAC,102,Segunda division
+190,Real Zaragoza,Real Zaragoza,RZA,102,Segunda division
+191,Valencia CF,Valencia CF,VCF,23,La Liga
+192,Real Valladolid,R. Valladolid CF,VLL,102,Segunda division
+196,Boavista,Boavista,BOA,99,Primeira Liga
+198,Feyenoord,Feyenoord,FEY,9,Eredivisie
+201,FC Porto,Porto,PTO,99,Primeira Liga
+202,Olympiakos,Olympiakos,OLY,113,Greek Super League
+204,PSV,PSV,PSV,9,Eredivisie
+208,Galatasaray,Galatasaray,GAL,115,Süper Lig
+210,Servette,Servette,SER,135,Swiss Super League
+215,Ajax,Ajax,AJA,9,Eredivisie
+225,Debrecen,Debrecen,DEB,137,Hungarian Liga NB I
+227,Ferencvárosi TC,Ferencváros,FTC,137,Hungarian Liga NB I
+229,Ankaragücü,Ankaragücü,ANK,115,Süper Lig
+232,Vitesse,Vitesse,VIT,9,Eredivisie
+234,AEK Athens,AEK,AEK,113,Greek Super League
+237,PAOK Salonika,PAOK,PAO,113,Greek Super League
+241,RSC Anderlecht,Anderlecht,AND,112,Jupiler Pro League
+249,Grasshopper Club Zürich,Grasshopper Club Zürich,GC,135,Swiss Super League
+251,Benfica,Benfica,BEN,99,Primeira Liga
+253,Fenerbahçe,Fenerbahçe,FEN,115,Süper Lig
+255,Sporting CP,Sporting,SCP,99,Primeira Liga
+264,Panathinaikos,Panathinaikos,PTK,113,Greek Super League
+313,AZ,AZ,AZ,9,Eredivisie
+316,Fortuna Sittard,Fortuna,FOR,9,Eredivisie
+318,sc Heerenveen,Heerenveen,HEE,9,Eredivisie
+320,N.E.C.,N.E.C.,NEC,9,Eredivisie
+321,RKC Waalwijk,RKC,RKC,9,Eredivisie
+323,Sparta Rotterdam,Sparta,SPA,9,Eredivisie
+324,FC Twente,Twente,TWE,9,Eredivisie
+325,FC Utrecht,Utrecht,UTR,9,Eredivisie
+371,Vitória Guimarães,Vitória SC,VTG,99,Primeira Liga
+372,Sporting Braga,Braga,BRG,99,Primeira Liga
+373,Standard Liège,Standard,STA,112,Jupiler Pro League
+378,Besiktas,Besiktas,BJK,115,Süper Lig
+381,Antalyaspor,Antalya,ATY,115,Süper Lig
+383,Trabzonspor,Trabzon,TZS,115,Süper Lig
+387,"1. FC Köln","1. FC Köln",KOE,22,Bundesliga
+396,Sint-Truidense VV,Sint-Truiden,STV,112,Jupiler Pro League
+399,New York Red Bulls,NY Red Bulls,RBNY,98,US Major League Soccer
+407,Las Palmas,UD Las Palmas,LPA,23,La Liga
+413,Club Brugge,Club Brugge,BRU,112,Jupiler Pro League
+414,KRC Genk,Genk,GNK,112,Jupiler Pro League
+416,KVC Westerlo,KVC Westerlo,WES,112,Jupiler Pro League
+421,Sporting Kansas City,Sporting Kansas,SKC,98,US Major League Soccer
+424,PEC Zwolle,PEC,ZWO,9,Eredivisie
+427,Toulouse,Toulouse,TOU,24,Ligue 1
+428,Guingamp,Guingamp,GUI,104,Ligue 2
+429,Lille,Lille,LIL,24,Ligue 1
+430,Nantes,Nantes,NAN,24,Ligue 1
+431,VfL Bochum 1848,VfL Bochum,BOC,22,Bundesliga
+436,Colorado Rapids,Colorado Rapids,COL,98,US Major League Soccer
+449,Villarreal,Villarreal CF,VIL,23,La Liga
+450,Osasuna,C.A. Osasuna,OSA,23,La Liga
+451,São Paulo,São Paulo,SAO,363,Brazilian Serie A
+453,St. Gallen,St. Gallen,SG,135,Swiss Super League
+454,Columbus Crew,Columbus,CLB,98,US Major League Soccer
+456,Atalanta,Atalanta,ATA,21,Serie A
+458,Brescia,Brescia Calcio,BSC,105,Serie B
+459,Napoli,Napoli,NAP,21,Serie A
+481,Basel,Basel,BAS,135,Swiss Super League
+486,OFI,OFI,OFI,113,Greek Super League
+490,Lausanne,Lausanne,LS,135,Swiss Super League
+539,Excelsior,Excelsior,EXC,9,Eredivisie
+540,Boca Juniors,Boca,BOC,724,Liga Profesional Argentina
+570,Vélez Sarsfield,Vélez,VEL,724,Liga Profesional Argentina
+595,Zürich,Zürich,FCZ,135,Swiss Super League
+602,Internacional,Internacional,INT,363,Brazilian Serie A
+603,Sampdoria,Sampdoria,SAM,105,Serie B
+608,River Plate,River,RIV,724,Liga Profesional Argentina
+609,Corinthians,Corinthians,COR,363,Brazilian Serie A
+612,Tenerife,CD Tenerife,CDT,102,Segunda division
+616,Sporting de Gijón,Real Sporting,RSG,102,Segunda division
+625,Palmeiras,Palmeiras,PAL,363,Brazilian Serie A
+666,Gil Vicente,Gil Vicente,GVI,99,Primeira Liga
+667,Ternana,Ternana Calcio,TER,105,Serie B
+678,KAA Gent,Gent,KAA,112,Jupiler Pro League
+680,FC St. Pauli,FC St. Pauli,STP,87,"2.Bundesliga"
+683,Borussia Mönchengladbach,Borussia M'gladbach,BMG,22,Bundesliga
+684,"1. FC Nürnberg","1. FCN",FCN,87,"2.Bundesliga"
+693,Sochaux,Sochaux,SOC,104,Ligue 2
+694,Lorient,Lorient,LOR,24,Ligue 1
+695,Empoli,Empoli F.C.,EMP,21,Serie A
+707,FC Volendam,Volendam,VOL,9,Eredivisie
+734,Go Ahead Eagles,GA Eagles,GAE,9,Eredivisie
+735,Goiás,Goiás,GOI,363,Brazilian Serie A
+742,Monza,Monza,MONZ,21,Serie A
+745,Rosario Central,Rosario Central,CEN,724,Liga Profesional Argentina
+749,Sporting de Charleroi,Charleroi,CHR,112,Jupiler Pro League
+764,Cruzeiro,Cruzeiro,CZO,363,Brazilian Serie A
+808,Hannover 96,Hannover 96,H96,87,"2.Bundesliga"
+809,Karlsruher SC,KSC,KSC,87,"2.Bundesliga"
+810,"1. FSV Mainz 05",Mainz 05,M05,22,Bundesliga
+812,SpVgg Greuther Fürth,SpVgg Greuther Fürth,SGF,87,"2.Bundesliga"
+816,"1. FC Union Berlin",Union Berlin,FCU,22,Bundesliga
+844,Modena,Modena,MOD,105,Serie B
+846,Argentinos Juniors,Argentinos,ARG,724,Liga Profesional Argentina
+848,Mechelen,Mechelen,KVM,112,Jupiler Pro League
+849,Royal Antwerp,Antwerp,AWP,112,Jupiler Pro League
+855,Levante,Levante UD,LUD,102,Segunda division
+862,Brest,Brest,BRS,24,Ligue 1
+875,Racing Ferrol,Racing Ferrol,RCF,102,Segunda division
+927,Estudiantes de La Plata,Estudiantes,EST,724,Liga Profesional Argentina
+928,New England Revolution,New England,NE,98,US Major League Soccer
+935,Lugano,Lugano,LUG,135,Swiss Super League
+950,Albacete,Albacete BP,ABP,102,Segunda division
+951,Burgos CF,Burgos CF,BUR,102,Segunda division
+953,Eibar,SD Eibar,EIB,102,Segunda division
+954,Elche,Elche CF,ECF,102,Segunda division
+957,Leganés,C.D. Leganés,LEG,102,Segunda division
+986,Racing Club,Racing,RAC,724,Liga Profesional Argentina
+987,Aris,Aris,ARTH,113,Greek Super League
+990,Genoa,Genoa,GEN,21,Serie A
+1025,Salernitana,U.S. Salernitana 1919,SAL,21,Serie A
+1026,Reggiana,Reggiana,RGANA,105,Serie B
+1027,Colón Santa Fe,Colón,COL,724,Liga Profesional Argentina
+1028,Caen,Caen,CAE,104,Ligue 2
+1029,Flamengo,Flamengo,FLA,363,Brazilian Serie A
+1065,Como,Como,COM,105,Serie B
+1071,Talleres de Córdoba,Talleres,TAL,724,Liga Profesional Argentina
+1095,Newell's Old Boys,Newell's,NOB,724,Liga Profesional Argentina
+1123,Cosenza,Cosenza,COS,105,Serie B
+1131,San Jose Earthquakes,SJ Earthquakes,SJ,98,US Major League Soccer
+1163,Ajaccio,Ajaccio,ACA,104,Ligue 2
+1207,Chicago Fire FC,Chicago Fire,CHI,98,US Major League Soccer
+1230,LA Galaxy,LA Galaxy,LA,98,US Major League Soccer
+1243,Independiente,Independiente,IND,724,Liga Profesional Argentina
+1267,Charleston Battery,Charleston Battery,CHS,807,USL Championship
+1269,Luzern,Luzern,LUZ,135,Swiss Super League
+1272,Grenoble,Grenoble,GRN,104,Ligue 2
+1303,Santos,Santos,SAN,363,Brazilian Serie A
+1313,Belgrano,Belgrano,BEL,724,Liga Profesional Argentina
+1316,Al-Ittihad,Ittihad,ITH,202,Saudi Pro League
+1317,Al-Hilal,Hilal,HIL,202,Saudi Pro League
+1326,D.C. United,DC United,DC,98,US Major League Soccer
+1339,Grêmio,Grêmio,GRE,363,Brazilian Serie A
+1364,Al-Khaleej,Khaleej,KHA,202,Saudi Pro League
+1373,Atlético Mineiro,Atlético MG,ATM,363,Brazilian Serie A
+1391,Samsunspor,Samsunspor,SAM,115,Süper Lig
+1392,Gimnasia La Plata,Gimnasia,GIM,724,Liga Profesional Argentina
+1395,Nice,Nice,NIC,24,Ligue 1
+1405,Palermo,Palermo,PAL,105,Serie B
+1419,Botafogo,Botafogo,BOT,363,Brazilian Serie A
+1423,Reims,Reims,REI,24,Ligue 1
+1430,Amiens,Amiens,AMI,104,Ligue 2
+1450,Getafe,Getafe CF,GTF,23,La Liga
+1464,Újpest,Újpest,UJP,137,Hungarian Liga NB I
+1564,Almería,UD Almería,ALM,23,La Liga
+1570,Ascoli,Ascoli,ASC,105,Serie B
+1578,Bahia,Bahia,BAH,363,Brazilian Serie A
+1581,Portland Timbers,Portland,POR,98,US Major League Soccer
+1616,CF Montréal,Montréal,MTL,98,US Major League Soccer
+1708,Vancouver Whitecaps FC,Vancouver,VAN,98,US Major League Soccer
+1730,Catanzaro,Catanzaro,CTZAR,105,Serie B
+1734,Fluminense,Fluminense,FLU,363,Brazilian Serie A
+1737,Cádiz,Cádiz CF,CAD,23,La Liga
+1738,Fortuna Düsseldorf,Fortuna Düsseldorf,F95,87,"2.Bundesliga"
+1740,Eintracht Braunschweig,Eintracht Braunschweig,EBS,87,"2.Bundesliga"
+1743,SC Paderborn 07,SCP07,SCP,87,"2.Bundesliga"
+1755,VfL Osnabrück,VfL Osnabrück,OSN,87,"2.Bundesliga"
+1756,SV Darmstadt 98,Darmstadt 98,D98,22,Bundesliga
+1772,FC Augsburg,FC Augsburg,FCA,22,Bundesliga
+1897,Houston Dynamo FC,Houston Dynamo,HOU,98,US Major League Soccer
+1899,Real Salt Lake,Real Salt Lake,RSL,98,US Major League Soccer
+1902,TSG Hoffenheim,Hoffenheim,TSG,22,Bundesliga
+1903,FC Dallas,Dallas,DAL,98,US Major League Soccer
+1963,Young Boys,Young Boys,YB,135,Swiss Super League
+1980,Portimonense,Portimonense,PTM,99,Primeira Liga
+1983,Clermont,Clermont,CLM,24,Ligue 1
+1996,Valenciennes,Valenciennes,VCN,104,Ligue 2
+2006,Kayserispor,Kayserispor,KAY,115,Süper Lig
+2016,"1. FC Magdeburg",FC Magdeburg,FCM,87,"2.Bundesliga"
+2036,Spezia,Spezia,SPZ,105,Serie B
+2037,Frosinone,Frosinone Calcio,FRI,21,Serie A
+2038,Heracles Almelo,Heracles,HER,9,Eredivisie
+2059,Atromitos Athens,Atromitos,ATR,113,Greek Super League
+2077,Toronto FC,Toronto,TOR,98,US Major League Soccer
+2111,SV Wehen Wiesbaden,SVWW,WIE,87,"2.Bundesliga"
+2128,Angers,Angers,ANR,104,Ligue 2
+2132,Zalaegerszeg,ZTE,ZTE,137,Hungarian Liga NB I
+2133,Istanbul Basaksehir,Basaksehir,IBB,115,Süper Lig
+2136,Caykur Rizespor,Caykur Rizespor,RIZ,115,Süper Lig
+2137,Sivasspor,Sivas,SIV,115,Süper Lig
+2141,Konyaspor,Konya,KON,115,Süper Lig
+2143,Kasimpasa,Kasimpasa,KAS,115,Süper Lig
+2170,Pisa,Pisa,PSA,105,Serie B
+2173,Cittadella,A.S. Cittadella,CIT,105,Serie B
+2174,Cremonese,U.S. Cremonese,CRE,105,Serie B
+2176,Lecco,Lecco,LCO,105,Serie B
+2182,Sassuolo,Sassuolo,SASS,21,Serie A
+2203,Südtirol,Südtirol,SDTRL,105,Serie B
+2271,Diósgyör,DVTK,DVT,137,Hungarian Liga NB I
+2273,Estoril Praia,Estoril,EST,99,Primeira Liga
+2298,Laval,Laval,LAV,104,Ligue 2
+2308,Vasco da Gama,Vasco,VAS,363,Brazilian Serie A
+2338,Paris FC,Paris,PFC,104,Ligue 2
+2411,MTK,MTK,MTK,137,Hungarian Liga NB I
+2451,Banfield,Banfield,BAN,724,Liga Profesional Argentina
+2473,Lanús,Lanús,LAN,724,Liga Profesional Argentina
+2477,Coritiba,Coritiba,CBA,363,Brazilian Serie A
+2541,Quevilly Rouen,QRM,QLY,104,Ligue 2
+2549,San Lorenzo,San Lorenzo,SLO,724,Liga Profesional Argentina
+2572,Athletico Paranaense,Atlético PR,ATP,363,Brazilian Serie A
+2577,Arsenal de Sarandí,Arsenal,ARS,724,Liga Profesional Argentina
+2578,Huracán,Huracán,HUR,724,Liga Profesional Argentina
+2580,Tigre,Tigre,TIG,724,Liga Profesional Argentina
+2584,Cercle Brugge,Cercle Brugge,CER,112,Jupiler Pro League
+2587,KV Kortrijk,Kortrijk,KVK,112,Jupiler Pro League
+2599,Asteras Tripolis,Asteras,ASI,113,Greek Super League
+2613,Panserraikos,Panserraikos,None,113,Greek Super League
+2714,Fehérvár,Fehérvár,FEH,137,Hungarian Liga NB I
+2718,Paks,Paks,PAK,137,Hungarian Liga NB I
+2721,Kecskemét,Kecskemét,KTE,137,Hungarian Liga NB I
+2834,Godoy Cruz,Godoy Cruz,GOD,724,Liga Profesional Argentina
+2847,Rio Ave,Rio Ave,RIA,99,Primeira Liga
+2881,Holstein Kiel,Holstein Kiel,KIE,87,"2.Bundesliga"
+2891,"1. FC Heidenheim 1846","1. FC Heidenheim 1846",FCH,22,Bundesliga
+2893,Girona,Girona FC,GIR,23,La Liga
+2894,Huesca,SD Huesca,HUE,102,Segunda division
+3005,Chaves,Chaves,GDC,99,Primeira Liga
+3070,Gaziantep FK,Gaziantep FK,GAZ,115,Süper Lig
+3086,Vizela,Vizela,VIZ,99,Primeira Liga
+3102,Istanbulspor,Istanbulspor,IST,115,Süper Lig
+3133,PAS Giannina,Giannina,PAS,113,Greek Super League
+3217,SC Farense,SC Farense,FAR,99,Primeira Liga
+3235,Union Saint-Gilloise,Union SG,USG,112,Jupiler Pro League
+3272,Concarneau,Concarneau,USC,104,Ligue 2
+3288,Dunkerque,Dunkerque,DKE,104,Ligue 2
+3308,Rodez,Rodez,ROD,104,Ligue 2
+3324,Alanyaspor,Alanya,ALN,115,Süper Lig
+3500,Seattle Sounders FC,Seattle Sounders,SEA,98,US Major League Soccer
+3536,Moreirense,Moreirense,MOR,99,Primeira Liga
+3554,FC Cartagena,Cartagena,CAR,102,Segunda division
+3573,FC Winterthur,FC Winterthur,WTR,135,Swiss Super League
+3576,Hatayspor,Hatayspor,HTY,115,Süper Lig
+3579,Platense,Platense,PLAT,724,Liga Profesional Argentina
+3638,Instituto,Instituto,INS,724,Liga Profesional Argentina
+3643,América Mineiro,América MG,AMG,363,Brazilian Serie A
+4071,SV 07 Elversberg,SV 07 Elversberg,ELV,87,"2.Bundesliga"
+4660,Villarreal B,Villarreal B,VIL,102,Segunda division
+4671,Atlético Tucumán,Atl. Tucumán,ATU,724,Liga Profesional Argentina
+4702,Feralpisalò,FeralpiSalò,FESALO,105,Serie B
+4990,Panetolikos,Panaitolikos,PNTLK,113,Greek Super League
+5088,Oud-Heverlee Leuven,Oud-Heverlee Leuven,OHL,112,Jupiler Pro League
+5191,Casa Pia AC,Casa Pia AC,PIA,99,Primeira Liga
+5194,Yverdon Sport,Yverdon,YS,135,Swiss Super League
+5233,Alcorcón,AD Alcorcón,ADA,102,Segunda division
+5239,Mezokovesd,Mezokovesd,MEZ,137,Hungarian Liga NB I
+5420,Pau,Pau,PAU,104,Ligue 2
+5513,Philadelphia Union,Philadelphia,PHI,98,US Major League Soccer
+5621,Tampa Bay Rowdies,Tampa Bay Rowdies,TBR,807,USL Championship
+5649,KAS Eupen,Eupen,EUP,112,Jupiler Pro League
+5663,Almere City FC,Almere City,ALM,9,Eredivisie
+5674,Arouca,Arouca,ARO,99,Primeira Liga
+5680,Al-Ittifaq,Ittifaq,ITF,202,Saudi Pro League
+5683,Granada CF,Granada CF,GRA,23,La Liga
+5741,Mirandés,CD Mirandés,CDM,102,Segunda division
+6339,RB Leipzig,RB Leipzig,RBL,22,Bundesliga
+6374,Unión Santa Fe,Unión,UNI,724,Liga Profesional Argentina
+6498,Amorebieta,Amorebieta,AMO,102,Segunda division
+6555,Stade-Lausanne-Ouchy,Lausanne-Ouchy,SLO,135,Swiss Super League
+6644,FC Famalicão,FC Famalicão,FAM,99,Primeira Liga
+6770,Al-Ahli,Ahli,AHL,202,Saudi Pro League
+6772,Al-Fateh,Fateh,FAT,202,Saudi Pro League
+6773,Al-Raed,Raed,RAE,202,Saudi Pro League
+6774,Al-Shabab,Shabab,SHA,202,Saudi Pro League
+6778,Al-Taawon,Taawon,TAA,202,Saudi Pro League
+6780,Al-Nassr,Nassr,NSR,202,Saudi Pro League
+6795,Adana Demirspor,Adana Demirspor,ADE,115,Süper Lig
+6846,Al-Hazm,Al-Hazm,HAZ,202,Saudi Pro League
+6847,Al-Wehda,Wehda,WEH,202,Saudi Pro League
+6900,Orlando City SC,Orlando,ORL,98,US Major League Soccer
+6977,Minnesota United FC,Minnesota United,MIN,98,US Major League Soccer
+7534,Pendikspor,Pendikspor,PEN,115,Süper Lig
+8005,Red Bull Bragantino,Bragantino,BRA,363,Brazilian Serie A
+8625,Defensa y Justicia,Defensa,DYJ,724,Liga Profesional Argentina
+8629,Sarmiento,Sarmiento,SAR,724,Liga Profesional Argentina
+8677,Orange County SC,Orange County SC,ORC,807,USL Championship
+8746,Puskás,Puskás,PUS,137,Hungarian Liga NB I
+9260,Fatih Karagümrük,Fatih Karagümrük,FKA,115,Süper Lig
+9280,Barracas Central,Barracas Central,BAC,724,Liga Profesional Argentina
+9428,Kisvárda,Kisvárda,KIS,137,Hungarian Liga NB I
+9619,Abha,Abha,ABH,202,Saudi Pro League
+9620,Al-Tai,Al-Tai,TAE,202,Saudi Pro League
+9622,Al-Riyadh,Al-Riyadh,RIY,202,Saudi Pro League
+9668,New York City FC,New York City,NYC,98,US Major League Soccer
+9709,Cuiabá,Cuiabá,CUI,363,Brazilian Serie A
+9830,TBC,TBC,N/A,105,Serie B
+9904,Phoenix Rising,Phoenix Rising,PHX,807,USL Championship
+9907,Sacramento Republic,Sacramento Republic,SAC,807,USL Championship
+9908,Pittsburgh Riverhounds SC,Pittsburgh Riverhounds,PIT,807,USL Championship
+9911,Indy Eleven,Indy Eleven,IND,807,USL Championship
+10182,Eldense,Eldense,ELD,102,Segunda division
+10483,Al-Fayha,Fayha,FEI,202,Saudi Pro League
+10636,Fortaleza EC,Fortaleza EC,FOR,363,Brazilian Serie A
+10752,Central Córdoba (Santiago del Estero),Central Córdoba (Santiago del Estero),CC SdE,724,Liga Profesional Argentina
+10967,Louisville City,Louisville City,LOU,807,USL Championship
+10969,Colorado Springs Switchbacks,Colorado Springs,COS,807,USL Championship
+10970,Tacoma Defiance,Tacoma,TAC,1164,MLS Next Pro
+11087,Damak,Damak,DAM,202,Saudi Pro League
+11091,Atlanta United,Atlanta,ATL,98,US Major League Soccer
+11317,Lamia,Lamia,None,113,Greek Super League
+11426,Annecy,Annecy,ANN,104,Ligue 2
+11504,FC Cincinnati,Cincinnati,CIN,98,US Major League Soccer
+11521,Sporting KC II,Sporting Kansas II,SKC,1164,MLS Next Pro
+11528,The Miami FC,Miami FC,MIA,807,USL Championship
+11663,San Antonio,San Antonio,SA,807,USL Championship
+11690,Los Angeles Football Club,Los Angeles FC,LAFC,98,US Major League Soccer
+12125,New York Red Bulls II,New York Red Bulls II,RBNY,1164,MLS Next Pro
+12131,Philadelphia Union II,Philadelphia II,PHI,1164,MLS Next Pro
+12133,Orlando City B,Orlando B,ORL,1164,MLS Next Pro
+12134,TFC II,Toronto II,TOR,1164,MLS Next Pro
+12135,LA Galaxy II,LA Galaxy II,LA,1164,MLS Next Pro
+12136,Timbers2,Timbers 2,POR,1164,MLS Next Pro
+12137,Real Monarchs,Monarchs,SLC,1164,MLS Next Pro
+12140,Rio Grande Valley,Rio Grande Valley,RGV,807,USL Championship
+12141,FC Tulsa,FC Tulsa,TUL,807,USL Championship
+12142,Whitecaps FC 2,Whitecaps 2,VAN,1164,MLS Next Pro
+14156,Atlanta United 2,Atlanta United 2,ATL,1164,MLS Next Pro
+14160,Las Vegas Lights FC,Las Vegas Lights FC,LV,807,USL Championship
+14304,Detroit City FC,Detroit City FC,DET,807,USL Championship
+14880,Inter Miami CF,Inter Miami CF,MIA,98,US Major League Soccer
+14963,Volos NFC,Volos NFC,None,113,Greek Super League
+15140,North Texas SC,North Texas,NTX,1164,MLS Next Pro
+15145,Birmingham Legion,Birmingham Legion,BHM,807,USL Championship
+15146,Hartford Athletic,Hartford Athletic,HFD,807,USL Championship
+15147,Loudoun United,Loudoun United,LDN,807,USL Championship
+15148,Memphis 901,Memphis 901,MEM,807,USL Championship
+15150,El Paso Locomotive,El Paso Locomotive,ELP,807,USL Championship
+15151,New Mexico United,New Mexico United,NM,807,USL Championship
+15154,Nashville SC,Nashville,NSH,98,US Major League Soccer
+15207,Al-Akhdoud,Al-Akhdoud,AKH,202,Saudi Pro League
+15296,Austin FC,Austin FC,ATX,98,US Major League Soccer
+16310,FC Andorra,FC Andorra,AND,102,Segunda division
+16495,San Diego Loyal,San Diego Loyal,SD,807,USL Championship
+16496,New England Revolution II,Revolution II,NE,1164,MLS Next Pro
+16550,Oakland Roots,Oakland Roots,OAK,807,USL Championship
+16629,Charlotte FC,Charlotte,CLT,98,US Major League Soccer
+16693,RWDM,RWDM,RWD,112,Jupiler Pro League
+17012,St. Louis City SC,St. Louis,STL,98,US Major League Soccer
+17370,Estrela,Estrela,CFE,99,Primeira Liga
+18775,Kifisia,Kifisia,KIF,113,Greek Super League
+18778,Monterey Bay,Monterey Bay,MB,807,USL Championship
+19193,Chicago Fire FC II,Chicago Fire II,CHI,1164,MLS Next Pro
+19194,Colorado Rapids 2,Colorado Rapids 2,COL,1164,MLS Next Pro
+19195,Columbus Crew 2,Columbus 2,CLB,1164,MLS Next Pro
+19196,FC Cincinnati 2,Cincinnati,CIN,1164,MLS Next Pro
+19197,Houston Dynamo 2,Houston Dynamo 2,HOU,1164,MLS Next Pro
+19198,Inter Miami II,Inter Miami II,MIA,1164,MLS Next Pro
+19199,MNUFC2,Minnesota United 2,MIN,1164,MLS Next Pro
+19200,NYCFC II,New York City II,NYC,1164,MLS Next Pro
+19201,Earthquakes II,Earthquakes 2,SJ,1164,MLS Next Pro
+19202,St Louis CITY2,St. Louis 2,STL,1164,MLS Next Pro
+20220,Austin FC II,Austin II,ATX,1164,MLS Next Pro
+20221,Los Angeles Football Club 2,Los Angeles II,LAFC,1164,MLS Next Pro
+20222,Crown Legacy FC,Charlotte FC II,CLT,1164,MLS Next Pro
+20223,Huntsville City FC,Huntsville City FC,HNT,1164,MLS Next Pro
